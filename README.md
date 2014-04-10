@@ -1,4 +1,3 @@
-heartbleed
-==========
+# heartbleed
 
-#Nodejs wrapper for heartbleed API using request/promise.
+Node.js wrapper for heartbleed API using request/promises.
